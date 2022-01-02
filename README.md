@@ -57,6 +57,9 @@ to snag all of the dependencies. Of course, you need [node](https://nodejs.org/e
 [![Run on Repl.it](https://repl.it/badge/github/SudhanPlayz/Discord-MusicBot)](https://repl.it/github/SudhanPlayz/Discord-MusicBot)
 > Note: If you are hosting your bot in heroku, Please consider upgrading your dyno for running dashboard & bot simultaneously because in free dyno it'll run out of memory(as there are two workers). If you want to run only the bot, turn off the `web` dyno.
 
+## WARNİNG
+```Warning This project was made by _ destroyer _#6912 and Kotlin#0427 unauthorized sharing is prohibited```
+
 
 <!-- LICENSE -->
 
