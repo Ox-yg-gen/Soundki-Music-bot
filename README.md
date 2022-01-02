@@ -1,7 +1,7 @@
 
 
 <h1 align="center"><img src="./assets/Cd Animated.gif" width="30px"> Discord Music Bot <img src="./assets/Cd Animated.gif" width="30px"></h1>
-<p align="center">Discord</p>
+<p align="center">Discord music bot powered by erela.js and discord.js based lavalink</p>
 
 ## 📎 Prerequisites 
 
