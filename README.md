@@ -6,7 +6,7 @@
 ## 📎 Prerequisites 
 
 - [Node.js 16+](https://nodejs.org/en/download/)
-- [discord.js@13](https://www.npmjs.com/package/discord.js/v/12.5.3)
+- [discord.js@13](https://www.npmjs.com/package/discord.js/v/13.3.0)
 - [Lavalink Server](https://github.com/freyacodes/Lavalink#server-configuration)
 
 > NOTE: The bot must be a lavalink server to work.
