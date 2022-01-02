@@ -1,6 +1,6 @@
 {
-  "token": "Nzk2ODAwMjQxMTA5NTY1NDkw.X_dMDQ.DRUwVTkLzAPSxjiAfhhkeouN_rs",
-  "prefix": "+",
+  "token": "BOT TOKEN",
+  "prefix": "PREFİX",
   "ksoftapi": "NEEDED_FOR_LYRICS",
   "youtubeCookie": "AFmmF2swRAIgW0OUBW7XDR",
   "colors": { "waves" : "#00bfff" },
@@ -9,5 +9,5 @@
         "clientSecret": "",
         "clientId": ""
   },
-  "loadSlashsGlobal": false, "_COMMENT_": "Set it to true, when your Slash Commands are ready, false loads instant true loads slow but stable! (GLOBAL/GUILD COMMANDS, DISCORD DOCS!)"
+  "loadSlashsGlobal": false, 
 }
