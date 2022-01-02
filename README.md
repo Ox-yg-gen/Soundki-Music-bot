@@ -32,7 +32,7 @@
   <a href="https://github.com/brblacky/lavamusic">
     <img src="https://cdn.discordapp.com/attachments/927077433318969365/927077455351672852/unknown.png">
     <img src="https://cdn.discordapp.com/attachments/927077433318969365/927078049600647188/unknown.png">
-    <img src="https://cdn.discordapp.com/attachments/927077433318969365/927078204840235028/unknown.png">
+    <img src="https://cdn.discordapp.com/attachments/927077433318969365/927079472816078858/unknown.png">
 
   </a>
 </p>
