@@ -10,9 +10,18 @@
 > NOTE: The bot must be a lavalink server to work.
 
 
+## 🌋 lavalink 
+```js
+      "host": "disbotlistlavalink.ml",
+      "port": 443,
+      "password": "LAVA",
+      "retryDelay": 3000,
+      "secure": true
+```
+
+
 ## 💌 Support Server
 [![DiscordBanner](https://invidget.switchblade.xyz/VkxUAZbqKn)](https://discord.gg/VkxUAZbqKn)
-[Support Server](https://discord.gg/VkxUAZbqKn) - lavamusic's Support Server Invite
 
 
 ## 📸 Screenshots
