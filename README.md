@@ -1,12 +1,7 @@
-[![Version][version-shield]](version-url)
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
+
 
 <h1 align="center"><img src="./assets/Cd Animated.gif" width="30px"> Discord Music Bot <img src="./assets/Cd Animated.gif" width="30px"></h1>
-<p align="center">Thanks for 25k Views with 500 subs!</p>
+<p align="center">Discord</p>
 
 ## 📎 Prerequisites 
 
@@ -31,11 +26,16 @@
 [![DiscordBanner](https://invidget.switchblade.xyz/VkxUAZbqKn)](https://discord.gg/VkxUAZbqKn)
 
 
-## 📸 Screenshots
+## 🖼️ Screenshots
+<br />
+<p align="center">
+  <a href="https://github.com/brblacky/lavamusic">
+    <img src="https://cdn.discordapp.com/attachments/927077433318969365/927077455351672852/unknown.png">
+    <img src="https://cdn.discordapp.com/attachments/927077433318969365/927078049600647188/unknown.png">
+    <img src="https://cdn.discordapp.com/attachments/927077433318969365/927078204840235028/unknown.png">
 
-<div align="left"><img src="/assets/Screenshot_1.png"></div><div align="center"><img src="/assets/Screenshot_2.png"></div><div align="right"><img src="/assets/Screenshot_3.png"></div>
-
-<div align="center"><img src="/assets/features.png"></div>
+  </a>
+</p>
 
 ## 💨 Run the projects
 
@@ -44,13 +44,7 @@
 [![Run on Repl.it](https://repl.it/badge/github/SudhanPlayz/Discord-MusicBot)](https://repl.it/github/SudhanPlayz/Discord-MusicBot)
 > Note: If you are hosting your bot in heroku, Please consider upgrading your dyno for running dashboard & bot simultaneously because in free dyno it'll run out of memory(as there are two workers). If you want to run only the bot, turn off the `web` dyno.
 
-## ✨ Contributors
 
-Contributions are always welcomed :D Make sure to follow [Contributing.md](/CONTRIBUTING.md)
-
-<a href="https://github.com/SudhanPlayz/Discord-MusicBot/graphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=SudhanPlayz/Discord-MusicBot" />
-</a>
 <!-- LICENSE -->
 
 ## 🔐 License
