@@ -12,6 +12,19 @@
 > NOTE: The bot must be a lavalink server to work.
 
 
+<!-- INSTALL -->
+## 🚀 Installation
+```
+git clone https://Ox-yg-gen/Soundki-Music-bot.git
+```
+After cloning, run an
+```
+npm install
+```
+* Start the bot with `node index.js`
+
+to snag all of the dependencies. Of course, you need [node](https://nodejs.org/en/) installed.
+
 ## 🌋 lavalink 
 ```js
       "host": "disbotlistlavalink.ml",
