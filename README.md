@@ -1,3 +1,12 @@
+
+[![Version][version-shield]](version-url)
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+<center><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=lavamusic&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient" /></center>
+
 <h1 align="center"><img src="./assets/Cd Animated.gif" width="30px"> Discord Music Bot <img src="./assets/Cd Animated.gif" width="30px"></h1>
 <p align="center">Thanks for 25k Views with 500 subs!</p>
 
