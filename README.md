@@ -1,15 +1,12 @@
 
 
 <h1 align="center"><img src="./assets/Cd Animated.gif" width="30px"> Discord Music Bot <img src="./assets/Cd Animated.gif" width="30px"></h1>
-<p align="center">Discord music bot powered by erela.js and discord.js based lavalink</p>
+<p align="center">Discord music bot powered by erela.js and discord.js</p>
 
 ## 📎 Prerequisites 
 
 - [Node.js 16+](https://nodejs.org/en/download/)
 - [discord.js V13](https://www.npmjs.com/package/discord.js/v/13.3.0)
-- [Lavalink Server](https://github.com/freyacodes/Lavalink#server-configuration)
-
-> NOTE: The bot must be a lavalink server to work.
 
 
 <!-- INSTALL -->
@@ -25,14 +22,7 @@ npm install
 
 to snag all of the dependencies. Of course, you need [node](https://nodejs.org/en/) installed.
 
-## ✨ lavalink 
-```js
-      "host": "disbotlistlavalink.ml",
-      "port": 443,
-      "password": "LAVA",
-      "retryDelay": 3000,
-      "secure": true
-```
+
 
 
 ## 💌 Support Server
