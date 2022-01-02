@@ -25,7 +25,7 @@ npm install
 
 to snag all of the dependencies. Of course, you need [node](https://nodejs.org/en/) installed.
 
-## 🌋 lavalink 
+## ✨ lavalink 
 ```js
       "host": "disbotlistlavalink.ml",
       "port": 443,
