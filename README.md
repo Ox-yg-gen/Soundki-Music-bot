@@ -6,7 +6,7 @@
 ## 📎 Prerequisites 
 
 - [Node.js 16+](https://nodejs.org/en/download/)
-- [discord.js@13](https://www.npmjs.com/package/discord.js/v/13.3.0)
+- [discord.js V13](https://www.npmjs.com/package/discord.js/v/13.3.0)
 - [Lavalink Server](https://github.com/freyacodes/Lavalink#server-configuration)
 
 > NOTE: The bot must be a lavalink server to work.
@@ -57,8 +57,8 @@ to snag all of the dependencies. Of course, you need [node](https://nodejs.org/e
 [![Run on Repl.it](https://repl.it/badge/github/SudhanPlayz/Discord-MusicBot)](https://repl.it/github/SudhanPlayz/Discord-MusicBot)
 > Note: If you are hosting your bot in heroku, Please consider upgrading your dyno for running dashboard & bot simultaneously because in free dyno it'll run out of memory(as there are two workers). If you want to run only the bot, turn off the `web` dyno.
 
-## WARNİNG
-```Warning This project was made by _ destroyer _#6912 and Kotlin#0427 unauthorized sharing is prohibited```
+## ⚠️ Warning
+```Warning This project was made by _destroyer_#6912 and Kotlin#0427 unauthorized sharing is prohibited```
 
 
 <!-- LICENSE -->
