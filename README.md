@@ -1,7 +1,7 @@
 <h1 align="center"><img src="./assets/Cd Animated.gif" width="30px"> Discord Music Bot <img src="./assets/Cd Animated.gif" width="30px"></h1>
 <p align="center">Thanks for 25k Views with 500 subs!</p>
 
-##📎 Prerequisites 
+## 📎 Prerequisites 
 
 - [Node.js 16+](https://nodejs.org/en/download/)
 - [discord.js@13](https://www.npmjs.com/package/discord.js/v/12.5.3)
@@ -10,9 +10,10 @@
 > NOTE: The bot must be a lavalink server to work.
 
 
-## 📝 [Support Server](https://discord.gg/VkxUAZbqKn)
+## 💌 Support Server
+[![DiscordBanner](https://invidget.switchblade.xyz/VkxUAZbqKn)](https://discord.gg/VkxUAZbqKn)
+[Support Server](https://discord.gg/VkxUAZbqKn) - lavamusic's Support Server Invite
 
-If you have a problem, do not forget to come to the server.
 
 ## 📸 Screenshots
 
