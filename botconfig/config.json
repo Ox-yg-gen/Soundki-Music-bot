@@ -9,5 +9,5 @@
         "clientSecret": "",
         "clientId": ""
   },
-  "loadSlashsGlobal": false, 
+  "loadSlashsGlobal": false
 }
