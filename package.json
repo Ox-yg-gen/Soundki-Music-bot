@@ -1,17 +1,14 @@
+
 {
   "dependencies": {
-    "@discordjs/builders": "^0.6.0",
-    "@discordjs/voice": "^0.6.0",
-    "@distube/soundcloud": "^0.2.2",
-    "@discordjs/opus": "^0.5.3",
-    "@distube/spotify": "^0.6.3",
-    "@ksoft/api": "^3.1.9",
-    "abbrev": "^1.1.1",
-    "canvas": "^2.8.0",
+    "@discordjs/builders": "^0.9.0",
+    "@discordjs/voice": "^0.7.5",
+    "@distube/soundcloud": "^1.0.0",
+    "@distube/spotify": "^1.0.0",
     "colors": "^1.4.0",
     "cpu-stat": "^2.0.1",
-    "discord.js": "^13.1.0",
-    "distube": "^3.0.0-beta.37",
+    "discord.js": "^13.3.1",
+    "distube": "^3.0.3",
     "ejs": "^3.1.6",
     "enmap": "^5.8.7",
     "express": "^4.17.1",
@@ -20,11 +17,47 @@
     "http": "^0.0.1-security",
     "libsodium-wrappers": "^0.7.9",
     "memorystore": "^1.6.6",
-    "nopt": "^5.0.0",
     "os": "^0.1.2",
-    "passport": "^0.4.1",
+    "passport": "^0.5.0",
     "passport-discord": "^0.1.4",
     "session": "^0.1.0",
     "url": "^0.11.0"
-  }
+  },
+  "name": "Soundki",
+  "description": "Discord music bot powered by erela.js and discord.js",
+  "version": "8.1.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "node index.js",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ox-yg-gen/Soundki-Music-bot.git"
+  },
+  "keywords": [
+    "discord",
+    "music",
+    "bot",
+    "spotify",
+    "youtube",
+    "soundcloud",
+    "discordjs",
+    "discordbot",
+    "distube",
+    "bassboost",
+    "noapi",
+    "filters",
+    "nightcore",
+    "yt",
+    "radio",
+    "radiostations"
+  ],
+  "author": "_destroyer_#6912",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ox-yg-gen/Soundki-Music-bot/issues"
+  },
+  "homepage": "https://github.com/Ox-yg-gen/Soundki-Music-bot#readme"
 }
